@@ -1,0 +1,25 @@
+@media only screen and (max-width: 426px) {
+    nav{
+      top:0;
+      left: 0;
+      /* background-color: aqua; */
+     /* line-height: 0; */
+       top: fixed;
+       /* background-color: aquamarine; */
+    }
+
+    #head1{
+           margin-bottom: -50px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin-right:px;
+    }
+
+    #logo{
+        /* height: 100px; */
+    }
+    
+       count {
+        flex-direction: column;
+       
+    }
+}
